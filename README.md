@@ -17,8 +17,9 @@
 
 - [رزومه](http://zahraahmadiii.github.io)
 
--  [sop](http://zahraahmadiii.github.io/SOP/)
+- [sop](http://zahraahmadiii.github.io/SOP/)
 
+- [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20294932/pdf/) 
 ------------------
 ## Winter Semester Courses 1399/2020
 
