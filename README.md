@@ -20,7 +20,7 @@
 - [sop](https://zahraahmadiii.github.io/sop/)
 
 - [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20294932/pdf/)
-- [patchwork]{https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/jlord.PNG}
+- [patchwork](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/jlord.PNG)
 ------------------
 ## Winter Semester Courses 1399/2020
 
