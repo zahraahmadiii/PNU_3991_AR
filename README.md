@@ -21,6 +21,7 @@
 
 - [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20294932/pdf/)
 - [patchwork](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/jlord.PNG)
+- [research method](https://zahraahmadiii.github.io/research-method/)
 ------------------
 ## Winter Semester Courses 1399/2020
 
