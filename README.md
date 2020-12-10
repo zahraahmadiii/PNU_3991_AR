@@ -19,9 +19,8 @@
 
 - [sop](https://zahraahmadiii.github.io/sop/)
 
-- [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20294932/pdf/)
+- [JavaScript certificate](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/js%20.png)
 - [patchwork](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/jlord.PNG)
-- [research method](https://zahraahmadiii.github.io/research-method/)
 - [Language-and-machine-theory](https://github.com/zahraahmadiii/Language-and-machine-theory)
 ------------------
 ## گروه ها
