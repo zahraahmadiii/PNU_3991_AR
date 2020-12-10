@@ -1,0 +1,63 @@
+\documentclass [10pt,a4paper]{book}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+
+\begin{flushleft}
+\textbf{4 | Introduction to Automata Theory, Formal Languages and Computation}
+\end{flushleft}
+
+
+\begin{itemize}
+\item
+$ A \cup B=B \cup A, A \cap B=B \cap A$ (commutative property)
+\item
+$ A \cup(B \cup C)=(A \cup B) \cup C, A \cap(B \cap C)=(A \cap B) \cap C$ (associative property)
+\item
+$ A \cup(B \cap C)=(A \cup B) \cap(B \cup C), A \cap(B \cup C)=(A \cap B) \cup(B \cap C)$ (distributive property)
+\item
+$ A \cup A^{c}=U(U$ is the universal set)
+\item
+$ A \cap A^{c}=\varnothing$
+\item
+$\left(A^{C}\right)^{c}=A$
+\item
+$(A \cup B)^{c}=A^{c} \cap B^{c},(A \cap B)^{c}=A^{c} \cup B^{c}\left(D^{\prime}\right.$ Morgan's Law $)$
+\item
+$ A-(B \cup C)=(A-B) \cap(A-C)$
+\item
+$ A-(B \cap C)=(A-B) \cup(A-C)$
+\end{itemize}
+
+\textbf{1.3 Relation on Set}
+
+\begin{itemize}
+
+\item
+\textbf{Relation:} Let there be two non-cmpty scts $S$ and I. A relation $R$, defined between $S$ and $T$, is a subset of $\mathrm{S} \times \mathrm{T}$. If the ordered pair $(\mathrm{s}, \mathrm{t}) \in \mathrm{R},$ then the element $\mathrm{s}$ e $\mathrm{S}$ is said to be related to $\mathrm{t}$ e $\mathrm{T}$ by the relation $R$
+
+Let $S=\{2,4,6,8\}$ and $T=\{12,16,18,19\} . A$ relation $R$ between $S$ and $T$ is defined as an clement s in $\mathrm{S}$ is related to an element $\mathrm{t}$ of $\mathrm{I}$ if $\mathrm{t}$ is divided by $\mathrm{s}$. Here, $\mathrm{R}=\{(2,12),(2,16),(2,18)$ (4,12),(6,12),(6,18)\}$,$ But (4,18)$\notin \mathrm{R}$ as 18 is not divisible by 4
+\item
+\textbf{Reflexive:} A relation $R$ is said to be reflexive on a non-empty set $R$ if every element of $A$ is related to itself by that relation $\mathrm{R}$.
+
+Let $A=\{B, C, D\},$ where $B, C,$ and $D$ are brothers. Then, the relation brotherhood is a reflexive relation on the set A as $\{\mathrm{B}, \mathrm{C}\},\{\mathrm{B}, \mathrm{D}\},$ and $\{\mathrm{C}, \mathrm{D}\}$ are all sets of brother.
+\item
+\textbf{a Symmetric:} A relation $R$ is said to be symmetric, if for two clements "a' and 'b" in $X,$ if 'a" is related to "b" then b is related to a.
+
+Let $A$ be a set of all students in a class. L.et $R$ be a relation called classmate. Then we can call $R$ as a symmetric relation. If a and b are two students belonging to the set, then a is a classmate of b and b is a classmate of a.
+\item
+\textbf{Transitive:} Let R be a relation defined on a set A; then the relation $\mathrm{R}$ is said to be transitive if for $a, b, c \in A$ and if aRb, bRe holds good then aRe also holds good.
+
+Let $A=\{8,6,4\},$ where $R$ is a relation called greater than. If $8>6$ and $6>4$ hold good, then $8>4$ also holds good. So, "greater than' is a transitive relation.
+\item
+\textbf{Equivalence relation:} A relation $R$ is called as an equivalence relation on "A' if $R$ is reflexive, symmetric, and transitive.
+\item
+\textbf{Right invariant:} An equivalence relation $R$ on a strings of symbols from some alphabet $\Sigma$ is said to be a right invariant if for all $x, y \in \Sigma^{*}$ with $x \cdot R y$ and all we $\Sigma^{*}$ we have that $x w$. $R y w$. This definition states that an equivalence relation hus the right invariant property if two equivalent strings (x and y) that are in the language still are equivalent if a third string (w) is appended to the right of both of them.
+\item
+\textbf{Closure:} $A$ set is closed (under an operation) if and only if the operation on two elements of the set produces another element of the set. If an element outside the set is produced, then the operation is not closed.
+
+Closure is a property which describes when we combine any two elements of the set; the result is also included in the sct.
+\end{itemize}
+
+\end{document}
+
