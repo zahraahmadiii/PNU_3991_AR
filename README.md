@@ -22,7 +22,7 @@
 - [JavaScript certificate](https://www.sololearn.com/Certificate/1024-20294932/pdf/)
 - [patchwork](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/jlord.PNG)
 - [research method](https://zahraahmadiii.github.io/research-method/)
-- [Method and researcher](https://github.com/zahraahmadiii/Written-submission)
+- [Method and researcher]()
 ------------------
 ## گروه ها
 - [زهرا احمدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/02_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A)
