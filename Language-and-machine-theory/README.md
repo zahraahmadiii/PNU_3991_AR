@@ -1,4 +1,24 @@
+
+<div dir="rtl">
 ## Language-and-machine-theory
+
+-----
+
+<br>
+
+# ارائه شفاهی یک فصل از کتاب مرجع اصلی درس
+
+-[ارائه شفاهی فصل اول از مرجع اصلی درس]()
+
+
+
+
+-----
+
+
+
+# ارائه نوشتاری درس از منابع دیگر با لاتک
+
 
 - [1.pdf](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/Language-and-machine-theory/1.pdf)
 - [1.tex](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/Language-and-machine-theory/1.tex)
@@ -8,3 +28,18 @@
 - [3.tex](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/Language-and-machine-theory/3.tex)
 - [4.pdf](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/Language-and-machine-theory/4.pdf)
 - [4.tex](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/Language-and-machine-theory/4.tex)
+
+
+
+
+
+# ارائه شفاهی دو مساله از منابع دیگر با لاتک
+
+
+
+
+# ارائه شفاهی دو مثال با لاتک]()
+
+
+
+
