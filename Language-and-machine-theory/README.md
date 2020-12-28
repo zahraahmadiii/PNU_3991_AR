@@ -39,7 +39,8 @@
 
 
 
-# ارائه شفاهی دو مثال با لاتک](https://aparat.com/v/JkVGg)
+# ارائه شفاهی دو مثال با لاتک 
+[https://aparat.com/v/JkVGg]
 
 
 
