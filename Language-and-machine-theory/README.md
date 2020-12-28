@@ -34,7 +34,8 @@
 
 
 # ارائه شفاهی دو مساله از منابع دیگر با لاتک
-
+- [mesal.pdf](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/Language-and-machine-theory/document.pdf)
+- [mesal.tex]()
 
 
 
