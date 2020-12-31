@@ -21,6 +21,10 @@
 
 - [JavaScript certificate](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/js%20.png)
 - [patchwork](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/jlord.PNG)
+--------------------
+## فعالیت گروهی
+
+[معرفی دروس مشابه](http://smbidoki.ir/crsdetail.php?crsid=41)
 
 ------------------
 ## گروه ها
