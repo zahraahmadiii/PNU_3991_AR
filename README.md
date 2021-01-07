@@ -11,7 +11,7 @@
 
 # زهرا احمدی
  
----
+-------
 -  [PNU_3991_AR](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/README.md)
 - [حساب گیت هاب](https://github.com/zahraahmadiii)
 
@@ -32,8 +32,9 @@
 [دانشگاه بوشهر](http://smbidoki.ir/crsdetail.php?crsid=41)
 
 
-## جستجو منابع دیگر
+## جستجو منابع دیگر 
 
+[پایانامه ارشد دانشگاه ایالتی اوهایو با موضوع :Measurement of machine learning performance with different condition and hyperparameter](https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22)
 
 ------------------
 ## گروه ها
