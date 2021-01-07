@@ -22,9 +22,18 @@
 - [JavaScript certificate](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/js%20.png)
 - [patchwork](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/jlord.PNG)
 --------------------
-## فعالیت گروهی
+# فعالیت گروهی
 
-[معرفی دروس مشابه](http://smbidoki.ir/crsdetail.php?crsid=41)
+
+## معرفی دروس مشابه
+
+[دانشگاه Georgia Institute of Technology](https://libguides.gatech.edu/c.php?g=944744&p=6810453)
+
+[دانشگاه بوشهر](http://smbidoki.ir/crsdetail.php?crsid=41)
+
+
+## جستجو منابع دیگر
+
 
 ------------------
 ## گروه ها
