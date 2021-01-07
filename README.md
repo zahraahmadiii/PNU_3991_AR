@@ -17,6 +17,20 @@
 
 - [JavaScript certificate](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/js%20.png)
 - [patchwork](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/jlord.PNG)
+----------------------
+
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه]()
+- [خلاصه ارزیابی بخش عمومی]()
+
+## بخش دروس کارشناسی
+
+- [خلاصه ارزیابی درس_روش پژوهش وارائه]()
+- [خلاصه ارزیابی درس_نظریه زابان ها و ماشین ها]()
+
 --------------------
 ## گروه ها
  1. [ RPM-02 زهرا احمدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/02_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A)
