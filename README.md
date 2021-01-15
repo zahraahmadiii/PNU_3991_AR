@@ -55,7 +55,7 @@
 --------------------
 ## گروه ها
 
-<a name="G-L01"></a>
+
 
 1. G-R01   
 
@@ -82,11 +82,11 @@
 1. [_RPM-07  مريم بهار لو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/07_%D9%85%D8%B1%D9%8A%D9%85%20%D8%A8%D9%87%D8%A7%D8%B1%D9%84%D9%88%D9%82%D8%B1%D9%87%20%D8%A8%D9%84%D8%B7%D8%A7%D9%82%D9%8A) 
  
  
-<a name="G-L01"></a>
- 
-<a name="G-L02"></a>
 
-7. G-L02
+ 
+<a name="G-L07"></a>
+
+7. G-L07
 
 1. [_LMT01-12_محمدرضا بصیری**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/12_%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%A8%D8%B5%D9%8A%D8%B1%D9%8A )
 2. [_LMT01-03_احمد  ارمغان](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/03_%D8%A7%D8%AD%D9%85%D8%AF%20%D8%A7%D8%B1%D9%85%D8%BA%D8%A7%D9%86)
@@ -116,7 +116,7 @@
 1. [_LMT02-20_فاطمه دوستانی](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/ResearchAndPresentationMethods/1322010_02/20_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%8A/readme.md)
 1. [_LMT02-33_فاطمه ستاری آذر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/33_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B3%D8%AA%D8%A7%D8%B1%D9%8A%20%D8%A7%D8%B0%D8%B1)
 	
-<a name="G-L02"></a>
+<a name="G-L08"></a>
  
  
  
